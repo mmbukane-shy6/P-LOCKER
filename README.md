@@ -12,7 +12,7 @@ This is an application that allows users to create accounts for different sites.
 -Run the ./run.py script on the terminal to open
 
 ### BDD
-1.Create an Account
+<strong>1.Create an Account<strong>
 
 -input:First-Name<br>
 -output:first-Name<br>
@@ -29,7 +29,7 @@ This is an application that allows users to create accounts for different sites.
 -output:generated password<br>
 -output:Message to notify you that the account for the site has been created
 
-2.Log in to account
+<strong>2.Log in to account<strong>
 
 -input:user_name<br>
 -output:user_name<br>
@@ -37,12 +37,12 @@ This is an application that allows users to create accounts for different sites.
 -output:password<br>
 -output:message to tell you that you have been logged in
 
-3.Exit the application
+<strong>3.Exit the application<strong>
 
 -input:short code to exit ie:Ex<br>
 -output:message to thank you for visting the site<br>
 
-4.Display list of Application
+<strong>4.Display list of Application<strong>
 
 -Input the short code da to display saved accounts.<br>
 -Input: da<br>
