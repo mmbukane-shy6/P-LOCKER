@@ -1,18 +1,17 @@
-###  
-PASSWORD-LOCKER
+## PASSWORD-LOCKER
 
-## AUTHOR
+### AUTHOR
 Sheila Egeidza
 
-## DESCRIPTION
+### DESCRIPTION
 This is an application that allows users to create accounts for different sites. The User creates a username and password for various accounts. The application gives you the option of generating passwords for you for various accounts. It also has the option of creating your own password. 
 
-## INSTALLATION
+### INSTALLATION
 -Clone the github repository to your local machine
 -use the command: git clone 
 -Run the ./run.py script on the terminal to open
 
-## BDD
+### BDD
 1.Create an Account
 
 -input:First-Name
@@ -49,14 +48,14 @@ This is an application that allows users to create accounts for different sites.
 -Input: da
 -Output: list of accounts saved
 
-## TECHNOLOGIES USED
+### TECHNOLOGIES USED
 -python3.6
 
-## CONTACTS
+### CONTACTS
 -sheilaegeidza@gmail.com
 
 
-## LICENCE
+### LICENCE
 MIT License:LICENSE MIT
 
 Copyright (c) 2020 Sheila Egeidza
