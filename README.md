@@ -7,8 +7,8 @@ Sheila Egeidza
 This is an application that allows users to create accounts for different sites. The User creates a username and password for various accounts. The application gives you the option of generating passwords for you for various accounts. It also has the option of creating your own password. 
 
 ### INSTALLATION
--Clone the github repository to your local machine:https://github.com/mmbukane-shy6/P-LOCKER.git
--use the command: git clone 
+-Clone the github repository to your local machine:https://github.com/mmbukane-shy6/P-LOCKER.git<br>
+-use the command: git clone<br> 
 -Run the ./run.py script on the terminal to open
 
 ### BDD
