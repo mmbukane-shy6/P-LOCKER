@@ -20,6 +20,7 @@ class Credentials:
         method that allows application to delete accounts
         """
         Credentials.credentials_list.remove(self)
+
     @classmethod
     def display_credentials(cls):
          """

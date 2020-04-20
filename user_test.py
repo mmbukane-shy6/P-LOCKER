@@ -14,7 +14,7 @@ class TestUser(unittest.TestCase):
         """
         tearDown method that does clean up after each test case has run.
         """
-       User.user_list = []
+    User.user_list = []
 
     def test_init(self):
         """
@@ -34,8 +34,8 @@ class TestUser(unittest.TestCase):
         test_save_user test case to test if the user object is saved into
          the users array
         """  
-         self.new_user.save_user_details()
-         self.assertEqual(len(User.user_list), 1)
+        self.new_user.save_user_details()
+        self.assertEqual(len(User.user_list), 1)
 
     def test_save_multiple_users(self):
         '''
@@ -43,8 +43,8 @@ class TestUser(unittest.TestCase):
         objects to our user_list
         '''
         self.new_user.save_user_details()
-        test_user = User("Test", "Tester", "0714271014", "testuser@gmail.com")
-        test_user.save_user_details()
+         test_user = User("Test", "Tester", "0714271014", "testuser@gmail.com")
+         test_user.save_user_details()
         self.assertEqual(len(User.user_list), 2)
 
     def test_display_users(self):
