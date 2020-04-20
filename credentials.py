@@ -13,17 +13,16 @@ class Credentials:
         """
         save credentials list into credentials list array
         """
-     Credentials.credentials_list.append(self)
+        Credentials.credentials_list.append(self)
 
     def delete_account(self):
         """
         method that allows application to delete accounts
         """
-     Credentials.credentials_list.remove(self)
-
+        Credentials.credentials_list.remove(self)
     @classmethod
     def display_credentials(cls):
-        """
+         """
          method that returns the class array
          """
-        return cls.Credentials_list
+         return cls.Credentials_list

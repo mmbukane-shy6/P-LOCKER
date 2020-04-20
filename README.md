@@ -1,13 +1,13 @@
 ## PASSWORD-LOCKER
 
 ### AUTHOR
-<strong>Sheila Egeidza<strong>
+Sheila Egeidza
 
 ### DESCRIPTION
 This is an application that allows users to create accounts for different sites. The User creates a username and password for various accounts. The application gives you the option of generating passwords for you for various accounts. It also has the option of creating your own password. 
 
 ### INSTALLATION
--Clone the github repository to your local machine
+-Clone the github repository to your local machine:https://github.com/mmbukane-shy6/P-LOCKER.git
 -use the command: git clone 
 -Run the ./run.py script on the terminal to open
 
@@ -56,7 +56,18 @@ This is an application that allows users to create accounts for different sites.
 
 
 ### LICENCE
-MIT License:LICENSE MIT
+MIT License
 
 Copyright (c) 2020 Sheila Egeidza
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files 
+(the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge,
+ publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do
+  so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
