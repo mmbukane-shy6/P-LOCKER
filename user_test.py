@@ -43,7 +43,7 @@ class TestUser(unittest.TestCase):
         objects to our user_list
         '''
         self.new_user.save_user_details()
-         test_user = User("Test", "Tester", "0714271014", "testuser@gmail.com")
+          test_user = User("Test", "Tester", "0714271014", "testuser@gmail.com")
          test_user.save_user_details()
         self.assertEqual(len(User.user_list), 2)
 
